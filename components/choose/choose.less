@@ -1,0 +1,150 @@
+.cmp.cmp-choose {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+
+  & * {
+    line-height: 1.2;
+  }
+
+  .choose-wrapper {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+
+  .required-star {
+    position: absolute;
+    top: ~'calc(50% - 0.06rem)';
+    left: 0.06rem;
+    color: red;
+    font-size: 0.14rem;
+  }
+
+  .choose-title {
+    position: relative;
+    padding: 0.1rem 0.15rem;
+    min-height: 0.41rem;
+    width: 100%;
+    border-top: none !important;
+    border-right: none !important;
+    border-left: none !important;
+    border-radius: 0 !important;
+    color: inherit;
+    word-break: break-all;
+    font-size: 0.16rem !important;
+    // Safari 3D变换会忽略z-index的层级，导致页面闪烁
+    // transform: translate3d(0, 0, 0);
+  }
+
+  .choose-option-list {
+    padding: 0 !important;
+    width: 100%;
+    border: none !important;
+    border-radius: 0 !important;
+
+    li + li {
+      margin-top: 0.13rem;
+    }
+
+    .choose-option {
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-start;
+      color: inherit;
+      font-size: 0;
+      cursor: pointer;
+      margin-top: 0 !important;
+      padding: 0.1rem 0.15rem;
+      border-top: none !important;
+      border-right: none !important;
+      border-left: none !important;
+      border-radius: 0 !important;
+
+      user-select: none;
+
+      &:last-child {
+        border-bottom: 0 !important;
+      }
+
+      &.active {
+        .check-btn {
+          .dot {
+            opacity: 1;
+            animation: chooseScaleIn 0.2s ease;
+
+            animation-fill-mode: forwards;
+          }
+        }
+      }
+
+      .check-btn {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 0.16rem;
+        height: 0.16rem;
+        border-width: 0.01rem;
+        border-style: solid;
+        vertical-align: top;
+
+        &.radio-btn {
+          border-radius: 50%;
+          .dot {
+            width: 60%;
+            height: 60%;
+            border-radius: 50%;
+            opacity: 0;
+            transform: translate3d(0, 0, 0);
+          }
+        }
+
+        &.checkbox {
+          border-radius: 0.02rem;
+          .dot {
+            position: relative;
+            opacity: 0;
+
+            &:after {
+              position: absolute;
+              top: -0.04rem;
+              left: -0.05rem;
+              display: inline-block;
+              width: 0.1rem;
+              height: 0.05rem;
+              border-width: 0.02rem;
+              border-style: solid;
+              border-color: inherit;
+              border-top-width: 0;
+              border-right-width: 0;
+              border-radius: 0.01rem;
+              content: '';
+              transform: translate3d(0, 0, 0) rotate(-50deg);
+            }
+          }
+        }
+      }
+
+      .option-label {
+        flex: 1;
+        padding-left: 0.08rem;
+        word-break: break-all;
+        font-size: 0.14rem;
+      }
+    }
+  }
+}
+
+@keyframes chooseScaleIn {
+  0% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

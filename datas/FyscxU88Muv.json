@@ -1,0 +1,664 @@
+{
+  "id": "1d17534c-be4a-4cfd-82a5-a9a87675a820",
+  "name": "222",
+  "desc": "我用兔展做了一个超炫酷的H5,快来看看吧！",
+  "shortUrl": "FyscxU88Muv",
+  "domainUrl": "",
+  "templateId": "",
+  "type": "2",
+  "level": "2",
+  "state": "1",
+  "width": 320,
+  "height": 504,
+  "pages": [
+    {
+      "id": "a18bdee2-07ab-4ba1-aded-cdc4379a763c",
+      "pageExtId": "eb7ed4cf-e71a-419d-8246-8e76896b0f79",
+      "appId": "1d17534c-be4a-4cfd-82a5-a9a87675a820",
+      "cmps": [
+        {
+          "gid": "",
+          "auth": {
+            "APP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "APP_ENV_INTEGRATION"
+            },
+            "GROUP_MULTITERMINAL_AUTH": {
+              "data": {},
+              "key": "GROUP_MULTITERMINAL_AUTH"
+            },
+            "APP_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "APP_ENVIRONMENT_AUTH"
+            },
+            "ATTENTION_GZH_AUTH": {
+              "data": {},
+              "key": "ATTENTION_GZH_AUTH"
+            },
+            "MINI_PROGRAM_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "MINI_PROGRAM_ENVIRONMENT_AUTH"
+            },
+            "GROUP_USER_JUDGE": {
+              "data": {},
+              "key": "GROUP_USER_JUDGE"
+            },
+            "MINIAPP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "MINIAPP_ENV_INTEGRATION"
+            },
+            "CUSTOM_INTERFACE_AUTH": {
+              "data": {},
+              "key": "CUSTOM_INTERFACE_AUTH"
+            }
+          },
+          "imageMaterials": "6bda26c4-726d-4021-9513-da90d5f0f4ce",
+          "type": "image",
+          "tabsId": "",
+          "readonly": false,
+          "animations": [],
+          "isLocked": false,
+          "disabled": false,
+          "id": "16626217056871",
+          "staffInfoId": "",
+          "isFixed": false,
+          "fId": "",
+          "displayListId": "",
+          "visible": true,
+          "src": "//test-cdn1.rabbitpre.com/d3614231-3ed9-427c-aaab-9b9b583fd6b4",
+          "fullSize": {
+            "width": 139.80461828788907,
+            "height": 139.80461828788907
+          },
+          "display": {
+            "top": 1.0486364822965948e-14,
+            "left": 1.7935344607438058e-14,
+            "bottom": 1.7935344607438058e-14,
+            "width": 139.80461828788904,
+            "right": 1.0486364822965948e-14,
+            "height": 139.80461828788904
+          },
+          "ori": {
+            "width": 1000,
+            "height": 1000
+          },
+          "triggers": [],
+          "filter": "",
+          "readonlySetter": "",
+          "diyPosterId": "",
+          "selectionListId": "",
+          "name": "001图片",
+          "interaction": false,
+          "filterImage": {
+            "filter": "",
+            "src": "",
+            "oriSrc": ""
+          },
+          "sliderId": "",
+          "style": {
+            "rotate": 0,
+            "borderColor": "#000",
+            "shadowX": 0,
+            "shadowY": 0,
+            "borderRadius": 0,
+            "top": 19.000000000000128,
+            "left": 20.195381712110958,
+            "borderWidth": 0,
+            "width": 139.80461828788904,
+            "opacity": 1,
+            "borderStyle": "solid",
+            "shadowColor": "transparent",
+            "height": 139.80461828788904
+          },
+          "did": "",
+          "crop": {
+            "top": 0,
+            "left": 0,
+            "bottom": 0,
+            "width": 320,
+            "right": 0,
+            "height": 320
+          },
+          "pid": "a18bdee2-07ab-4ba1-aded-cdc4379a763c"
+        },
+        {
+          "gid": "",
+          "auth": {
+            "APP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "APP_ENV_INTEGRATION"
+            },
+            "GROUP_MULTITERMINAL_AUTH": {
+              "data": {},
+              "key": "GROUP_MULTITERMINAL_AUTH"
+            },
+            "APP_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "APP_ENVIRONMENT_AUTH"
+            },
+            "ATTENTION_GZH_AUTH": {
+              "data": {},
+              "key": "ATTENTION_GZH_AUTH"
+            },
+            "MINI_PROGRAM_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "MINI_PROGRAM_ENVIRONMENT_AUTH"
+            },
+            "GROUP_USER_JUDGE": {
+              "data": {},
+              "key": "GROUP_USER_JUDGE"
+            },
+            "MINIAPP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "MINIAPP_ENV_INTEGRATION"
+            },
+            "CUSTOM_INTERFACE_AUTH": {
+              "data": {},
+              "key": "CUSTOM_INTERFACE_AUTH"
+            }
+          },
+          "type": "shape",
+          "tabsId": "",
+          "fitToPage": false,
+          "readonly": false,
+          "animations": [],
+          "isLocked": false,
+          "disabled": false,
+          "id": "16626217115962",
+          "staffInfoId": "",
+          "isFixed": false,
+          "fills": [
+            "#FFFFFF",
+            "#F2B666",
+            "#DB841D",
+            "#F779AA",
+            "#DB841D",
+            "#F779AA",
+            "#EF6FA3",
+            "#FFB6CD",
+            "#FFB6CD",
+            "#FFD4E4",
+            "#FF99BE",
+            "#934A19",
+            "#934A19",
+            "#F9CB40",
+            "#8EB23F",
+            "#ED4233",
+            "#F3B00C"
+          ],
+          "fId": "",
+          "displayListId": "",
+          "visible": true,
+          "src": "//test-file1.rabbitpre.com/file/ce204c7f-72a0-4395-923c-21349ad9fdcd",
+          "triggers": [],
+          "shapeType": "custom",
+          "readonlySetter": "",
+          "diyPosterId": "",
+          "selectionListId": "",
+          "paths": [],
+          "name": "001形状",
+          "interaction": false,
+          "sliderId": "",
+          "style": {
+            "strokeWidth": 0,
+            "rotate": 0,
+            "borderRadius": 0,
+            "top": 245,
+            "viewBox": "0 0 1024 1024",
+            "left": 146,
+            "width": 100,
+            "opacity": 1,
+            "stroke": "#000",
+            "strokeDasharray": "none",
+            "height": 100
+          },
+          "did": "",
+          "pid": "a18bdee2-07ab-4ba1-aded-cdc4379a763c"
+        }
+      ],
+      "crop": {},
+      "width": 320,
+      "height": 504,
+      "createtime": "2022-09-08T15:02:43.000Z",
+      "updatetime": "2022-09-08T15:22:01.000Z",
+      "col": 0,
+      "row": 0,
+      "bgColor": "#fff",
+      "bgImage": "",
+      "bgImageType": 0,
+      "bgServer": "",
+      "bgLeft": 0,
+      "bgTop": 0,
+      "in": "",
+      "out": "",
+      "opacity": 1,
+      "formatVersion": "2.0",
+      "duration": "0.8",
+      "forbidSlide": false,
+      "type": "page",
+      "fullscreenBgValid": false,
+      "pageScroll": true,
+      "resizeLock": false,
+      "isDisabledChangeLockStatus": false,
+      "name": "作品页1"
+    }
+  ],
+  "formStruct": [],
+  "isMaterial": false,
+  "materials": [],
+  "appImgMaterials": [],
+  "crawlingRule": false,
+  "isVideo": false,
+  "createtime": "2022-09-08T15:02:43.000Z",
+  "updatetime": "2022-09-08T15:22:01.000Z",
+  "statetime": "2022-09-08T15:02:43.000Z",
+  "deeplink": "",
+  "deepshare": "",
+  "device": "iPhone5",
+  "devicew": 0,
+  "deviceh": 0,
+  "defaultWxName": "微信昵称",
+  "imgId": "",
+  "imgPath": "https://static.h5no1.com/rp/editor/default2.png",
+  "imgKey": "",
+  "imgBucket": "",
+  "imgServer": "",
+  "logoId": "",
+  "logoPath": "https://static.h5no1.com/rp/editor/logo.png",
+  "logoKey": "",
+  "logoBucket": "",
+  "logoServer": "",
+  "tags": "",
+  "userId": "9c36b6e7-8c4c-4d78-94a8-41aad63ded78",
+  "pfid": "be_Y37YBQIZ3",
+  "timeInterval": 0,
+  "gather": "",
+  "switchGuide": true,
+  "showPageDot": true,
+  "in": "",
+  "out": "",
+  "company": "",
+  "link": "",
+  "showViewCount": true,
+  "loop": false,
+  "title": "222",
+  "appTitle": "",
+  "titles": "",
+  "titleShortUrl": "",
+  "formAttr": "",
+  "freeMaterial": "",
+  "useNewData": false,
+  "oldFormCount": 0,
+  "freeFormCount": 0,
+  "formDataCount": 0,
+  "praise": 0,
+  "appStatus": "",
+  "showComment": false,
+  "customForm": "",
+  "orgId": "487aa4e1-cc06-4758-85e5-600705a05a94",
+  "orgDomain": "",
+  "orgWsId": "36368c53-6603-4709-886f-12fffda8db6c",
+  "organizationId": "be_Y37YBQIZ3",
+  "publish": 0,
+  "reportCount": 0,
+  "userFrom": "EPS10",
+  "userOrganize": "487aa4e1-cc06-4758-85e5-600705a05a94",
+  "appExtId": "bc8baf74-f35e-49e1-bce7-9a96e02f98a2",
+  "fonts": [],
+  "brandType": "2",
+  "wxauthorizationAppid": "wxcb3042aaaa14fde4",
+  "showWeChatHead": 0,
+  "appVersion": 2,
+  "source": "",
+  "isAdvertising": false,
+  "wechatSceneType": "0b4c7b943f6411e799d8d89d672a2be8",
+  "wechatPluginType": "test",
+  "content": "",
+  "showReport": true,
+  "isXtzUser": false,
+  "violateMark": false,
+  "xtzDomain": [],
+  "rabbitAuthValue": true,
+  "clickDynamicParams": false,
+  "showAuth": false,
+  "orgDomains": ["test12.h5no1.com"],
+  "isForceSnsapiUserInfoAuth": false,
+  "weChatAuthConfig": {
+    "remindMode": false,
+    "globalTrigger": false
+  },
+  "ossUrl": "//r2-tcdn.rabbitpre.com/app_cache/FyscxU88Muv.20220908152201.js",
+  "disableCrawler": false,
+  "webScraperImgPath": "https://static.h5no1.com/rp/editor/default2.png",
+  "renderType": "h5",
+  "forbidSlideAll": false,
+  "relativePosition": false,
+  "independentTitle": false,
+  "disablePageBounce": false,
+  "posterRelatedAppId": "",
+  "enableUserSelect": false,
+  "appNavigationBarConfig": {},
+  "variables": {
+    "system": [
+      {
+        "name": "作品名称",
+        "value": "222"
+      },
+      {
+        "name": "浏览量",
+        "value": ""
+      },
+      {
+        "name": "日期",
+        "value": "2022/09/08 15:22"
+      },
+      {
+        "format": "imageLink",
+        "name": "上传的图片",
+        "value": ""
+      },
+      {
+        "format": "imageLink",
+        "name": "轮播的图片",
+        "value": ""
+      },
+      {
+        "format": "imageLink",
+        "name": "人脸变化图片",
+        "value": "https://static.h5no1.com/rp/assets/31a5a74b-7876-4d36-a0d5-dae5a3515c09"
+      },
+      {
+        "format": "imageLink",
+        "name": "制成的图片",
+        "cmpType": "diyPoster",
+        "cmpValueMap": {},
+        "value": ""
+      },
+      {
+        "format": "integer",
+        "name": "已选选择项数量",
+        "cmpType": "selectDisplayList",
+        "cmpValueMap": {},
+        "value": ""
+      }
+    ],
+    "user": [
+      {
+        "format": "imageLink",
+        "name": "用户头像",
+        "value": ""
+      },
+      {
+        "name": "用户昵称",
+        "value": ""
+      }
+    ],
+    "form": [],
+    "custom": []
+  },
+  "flowEnabled": false,
+  "designerFlag": false,
+  "auth": {},
+  "styleList": [
+    {
+      "id": "166262056135930",
+      "type": "text",
+      "name": "默认样式",
+      "style": {
+        "fontFamily": "SYHT",
+        "fontSize": 16,
+        "lineHeight": 18,
+        "letterSpacing": 0,
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "textDecoration": "none",
+        "textAlign": "left",
+        "writingMode": "",
+        "backgroundColor": "transparent",
+        "color": "#333"
+      },
+      "materials": []
+    }
+  ],
+  "workbench": {
+    "independentTitle": false,
+    "disableSpread": false,
+    "wxAuthMode": "2",
+    "loadingMode": "DEFAULT"
+  },
+  "dialogPages": [],
+  "allPages": [
+    {
+      "id": "a18bdee2-07ab-4ba1-aded-cdc4379a763c",
+      "pageExtId": "eb7ed4cf-e71a-419d-8246-8e76896b0f79",
+      "appId": "1d17534c-be4a-4cfd-82a5-a9a87675a820",
+      "cmps": [
+        {
+          "gid": "",
+          "auth": {
+            "APP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "APP_ENV_INTEGRATION"
+            },
+            "GROUP_MULTITERMINAL_AUTH": {
+              "data": {},
+              "key": "GROUP_MULTITERMINAL_AUTH"
+            },
+            "APP_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "APP_ENVIRONMENT_AUTH"
+            },
+            "ATTENTION_GZH_AUTH": {
+              "data": {},
+              "key": "ATTENTION_GZH_AUTH"
+            },
+            "MINI_PROGRAM_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "MINI_PROGRAM_ENVIRONMENT_AUTH"
+            },
+            "GROUP_USER_JUDGE": {
+              "data": {},
+              "key": "GROUP_USER_JUDGE"
+            },
+            "MINIAPP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "MINIAPP_ENV_INTEGRATION"
+            },
+            "CUSTOM_INTERFACE_AUTH": {
+              "data": {},
+              "key": "CUSTOM_INTERFACE_AUTH"
+            }
+          },
+          "imageMaterials": "6bda26c4-726d-4021-9513-da90d5f0f4ce",
+          "type": "image",
+          "tabsId": "",
+          "readonly": false,
+          "animations": [],
+          "isLocked": false,
+          "disabled": false,
+          "id": "16626217056871",
+          "staffInfoId": "",
+          "isFixed": false,
+          "fId": "",
+          "displayListId": "",
+          "visible": true,
+          "src": "//test-cdn1.rabbitpre.com/d3614231-3ed9-427c-aaab-9b9b583fd6b4",
+          "fullSize": {
+            "width": 139.80461828788907,
+            "height": 139.80461828788907
+          },
+          "display": {
+            "top": 1.0486364822965948e-14,
+            "left": 1.7935344607438058e-14,
+            "bottom": 1.7935344607438058e-14,
+            "width": 139.80461828788904,
+            "right": 1.0486364822965948e-14,
+            "height": 139.80461828788904
+          },
+          "ori": {
+            "width": 1000,
+            "height": 1000
+          },
+          "triggers": [],
+          "filter": "",
+          "readonlySetter": "",
+          "diyPosterId": "",
+          "selectionListId": "",
+          "name": "001图片",
+          "interaction": false,
+          "filterImage": {
+            "filter": "",
+            "src": "",
+            "oriSrc": ""
+          },
+          "sliderId": "",
+          "style": {
+            "rotate": 0,
+            "borderColor": "#000",
+            "shadowX": 0,
+            "shadowY": 0,
+            "borderRadius": 0,
+            "top": 19.000000000000128,
+            "left": 20.195381712110958,
+            "borderWidth": 0,
+            "width": 139.80461828788904,
+            "opacity": 1,
+            "borderStyle": "solid",
+            "shadowColor": "transparent",
+            "height": 139.80461828788904
+          },
+          "did": "",
+          "crop": {
+            "top": 0,
+            "left": 0,
+            "bottom": 0,
+            "width": 320,
+            "right": 0,
+            "height": 320
+          },
+          "pid": "a18bdee2-07ab-4ba1-aded-cdc4379a763c"
+        },
+        {
+          "gid": "",
+          "auth": {
+            "APP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "APP_ENV_INTEGRATION"
+            },
+            "GROUP_MULTITERMINAL_AUTH": {
+              "data": {},
+              "key": "GROUP_MULTITERMINAL_AUTH"
+            },
+            "APP_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "APP_ENVIRONMENT_AUTH"
+            },
+            "ATTENTION_GZH_AUTH": {
+              "data": {},
+              "key": "ATTENTION_GZH_AUTH"
+            },
+            "MINI_PROGRAM_ENVIRONMENT_AUTH": {
+              "data": {},
+              "key": "MINI_PROGRAM_ENVIRONMENT_AUTH"
+            },
+            "GROUP_USER_JUDGE": {
+              "data": {},
+              "key": "GROUP_USER_JUDGE"
+            },
+            "MINIAPP_ENV_INTEGRATION": {
+              "data": {},
+              "key": "MINIAPP_ENV_INTEGRATION"
+            },
+            "CUSTOM_INTERFACE_AUTH": {
+              "data": {},
+              "key": "CUSTOM_INTERFACE_AUTH"
+            }
+          },
+          "type": "shape",
+          "tabsId": "",
+          "fitToPage": false,
+          "readonly": false,
+          "animations": [],
+          "isLocked": false,
+          "disabled": false,
+          "id": "16626217115962",
+          "staffInfoId": "",
+          "isFixed": false,
+          "fills": [
+            "#FFFFFF",
+            "#F2B666",
+            "#DB841D",
+            "#F779AA",
+            "#DB841D",
+            "#F779AA",
+            "#EF6FA3",
+            "#FFB6CD",
+            "#FFB6CD",
+            "#FFD4E4",
+            "#FF99BE",
+            "#934A19",
+            "#934A19",
+            "#F9CB40",
+            "#8EB23F",
+            "#ED4233",
+            "#F3B00C"
+          ],
+          "fId": "",
+          "displayListId": "",
+          "visible": true,
+          "src": "//test-file1.rabbitpre.com/file/ce204c7f-72a0-4395-923c-21349ad9fdcd",
+          "triggers": [],
+          "shapeType": "custom",
+          "readonlySetter": "",
+          "diyPosterId": "",
+          "selectionListId": "",
+          "paths": [],
+          "name": "001形状",
+          "interaction": false,
+          "sliderId": "",
+          "style": {
+            "strokeWidth": 0,
+            "rotate": 0,
+            "borderRadius": 0,
+            "top": 245,
+            "viewBox": "0 0 1024 1024",
+            "left": 146,
+            "width": 100,
+            "opacity": 1,
+            "stroke": "#000",
+            "strokeDasharray": "none",
+            "height": 100
+          },
+          "did": "",
+          "pid": "a18bdee2-07ab-4ba1-aded-cdc4379a763c"
+        }
+      ],
+      "crop": {},
+      "width": 320,
+      "height": 504,
+      "createtime": "2022-09-08T15:02:43.000Z",
+      "updatetime": "2022-09-08T15:22:01.000Z",
+      "col": 0,
+      "row": 0,
+      "bgColor": "#fff",
+      "bgImage": "",
+      "bgImageType": 0,
+      "bgServer": "",
+      "bgLeft": 0,
+      "bgTop": 0,
+      "in": "",
+      "out": "",
+      "opacity": 1,
+      "formatVersion": "2.0",
+      "duration": "0.8",
+      "forbidSlide": false,
+      "type": "page",
+      "fullscreenBgValid": false,
+      "pageScroll": true,
+      "resizeLock": false,
+      "isDisabledChangeLockStatus": false,
+      "name": "作品页1"
+    }
+  ],
+  "viewCount": 2
+}
