@@ -1,6 +1,6 @@
 next.js 用于新渲染引擎的demo
 
-see[Next.js同构方案利用到新渲染引擎可行性调研](http://wiki.tuzhanai.com/pages/viewpage.action?pageId=277807480)
+see: [Next.js同构方案利用到新渲染引擎可行性调研](https://jianghong.site/2022/09/09/Next.js%E5%8F%AF%E8%A1%8C%E6%80%A7%E8%B0%83%E7%A0%94/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

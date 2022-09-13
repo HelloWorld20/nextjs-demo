@@ -1,9 +1,0 @@
-{
-  "name": "components-cmp-choose",
-  "version": "1.0.0",
-  "description": "表单-单(多)选组件",
-  "author": "VenDream<suwenjun@szzbmy.com>",
-  "private": true,
-  "main": "./choose.tsx",
-  "typings": "./choose.tsx"
-}
